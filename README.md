@@ -2,7 +2,9 @@
 
 
 Docker 
+
 Kubernetes
+
 SQL, MySQL, Oracel 
 
 
