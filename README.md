@@ -6,9 +6,7 @@ MySQL, Apex - Oracel
 
 Cloud Lover :) 
 
-Docker 
-
-Kubernetes
+Docker, Kubernetes, AWS, Azure
 
 
 <!--
