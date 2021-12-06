@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
 
+Data lover :) 
+
+MySQL, Apex - Oracel  
+
+Cloud Lover :) 
 
 Docker 
 
