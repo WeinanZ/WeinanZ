@@ -3,24 +3,26 @@
 
 
 
+Hi there, I'm <a href="https://www.linkedin.com/in/weinan-zhang/" target="_blank" rel="noopener noreferrer">Weinan</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" >
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/weinan-zhang/" target="_blank" rel="noopener noreferrer">Weinan</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /h2>
+
  
+<br/>
 
-<h3 
 
-I also love working with different technologies & platforms and my current favorite ones are
-
-❤️ SQL / PostgreSQL / MySQL
-
-❤️ Python
-❤️ Tableau
-
-Cloud Intersts: 
-
-Docker Associate 
-
-Kubernetes Adminastrator 
+I am Currently working as a softwatre Delivery Consultant. I have experienced the projects in Cloud Computing, Cloud Solution Architect, and Data Analytics. 
+ <br/>
+ <br/>
+   ⭐ Database, my intersts are in the area of SQL, Oracel 12c, DB2. 
+    <br/>
+    <br/>
+   💗 Big data, I am keen on Machine learning and Data mining, and Data Analytics on cloud platform. 
+   <br/>
+   <br/>
+   ☁️Cloud Solution Architect: Docker(DCA Certified), Kubernetes(CKA Certified), AWS and Azure.
+  <br/>
+  <br/>
+   💕 Progamming: Python, Java, and C++ are my favorite. 
 
   
 
