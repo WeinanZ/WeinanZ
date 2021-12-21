@@ -10,8 +10,6 @@ Hello, I'm <a href="https://www.linkedin.com/in/weinan-zhang/" target="_blank" r
 <br/>
 
 
- 
-
 - 👯 I am Currently working as a softwatre Delivery Consultant. I have experienced the projects in Cloud Computing, Cloud Solution Architect, and Data Analytics. 
 
 - 🤝 Database, my intersts are in the area of SQL, Oracel 12c, DB2. 
