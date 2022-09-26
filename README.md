@@ -69,8 +69,7 @@ Hello, I'm <a href="https://www.linkedin.com/in/weinan-zhang/" target="_blank" r
 
   </div>
 
-
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 ----
 
 <div align="center">
