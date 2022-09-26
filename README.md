@@ -69,14 +69,15 @@ Hello, I'm <a href="https://www.linkedin.com/in/weinan-zhang/" target="_blank" r
 
   </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 ----
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github status:</h2> 
 
 #### Contribution Graph
-[![WeinanZ's github activity graph](https://activity-graph.herokuapp.com/graph?username=WeinanZ&theme=react-dark)](https://github.com/WeinanZ/github-readme-activity-graph)
+ 
+ ![](./profile-3d-contrib/profile-green-animate.svg)
 <!---
 --->
 
