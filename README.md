@@ -10,8 +10,8 @@ Hello, I'm <a href="https://www.linkedin.com/in/weinan-zhang/" target="_blank" r
 <br/>
 
 
-- 👯 I am Currently working as a softwatre Delivery Consultant. I have experienced the projects in Cloud Computing, Cloud Solution Architect, and Data Analytics. 
-
+- 👯 I am Currently working as a Technical Account Manager. I am currently working for Cloud Computing, Cloud Architecture - Openstack & Openshift. 
+- 
 - 🤝 Database, my intersts are in the area of SQL, Oracel 12c, DB2. 
 
 - 💬 Big data, I am keen on Machine learning and Data mining, and Data Analytics on cloud platform. 
