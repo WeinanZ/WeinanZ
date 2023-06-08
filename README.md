@@ -32,9 +32,9 @@
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-----
+
+![svg](profile-3d-contrib/profile-gitblock.svg)
 	
-[![WeinanZ's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WeinanZ&theme=github	)](https://github.com/WeinanZ/github-readme-activity-graph)
 
  
 </details>
