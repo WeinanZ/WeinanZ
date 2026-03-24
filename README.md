@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" width="400" height="200" src="https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1181649921.jpg?fit=400%2C200&strip=all" /><h1 align="center">Hi 👋, I'm Weinan Z. </h1>
-<h3 align="center">I don't want to change the world, neither myself.</h3>
+
 <h3 align="center">I ♥️ Open source </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weinanz&label=Profile%20views&color=0e75b6&style=flat" alt="weinanz" /> </p
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about Red Hat Enterprise Linux, Ansible, Red Hat Openshift, and Red Hat Openstack. 
 
-- 📫 How to reach me: weinanzhang23@outlook.com
+- 📫 How to reach me: Linkedin
 
 - ⚡ Fun fact: My duodenum is a bit painful.
 
